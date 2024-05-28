@@ -28,7 +28,7 @@ WHERE CONDITION = MET
 ```
 
 
-![](PriceInflation.jpg)
+![](Blessed.jpg)
 
 
 
