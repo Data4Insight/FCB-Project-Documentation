@@ -27,6 +27,7 @@ WHERE CONDITION = MET
 ```
 
 
+![](PriceInflation.jpg)
 
 
 
