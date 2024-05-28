@@ -18,6 +18,7 @@ This project analyzes the impacts of inflation and the exchange rate in Nigeria 
 
 
 ```
+
 Google Query Sheet
 
 SELECT * FROM TABLE 1
