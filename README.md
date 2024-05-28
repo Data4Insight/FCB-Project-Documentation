@@ -6,8 +6,8 @@ This project analyzes the impacts of inflation and the exchange rate in Nigeria 
 - Exchange Rate (EXR) to measure the volatility of the exchange rate
 
 #### Data Sources
-- National Bureau of Statistics (NBS) [Download Here](https://www.cbn.gov.ng)
-- Central Bank of Nigeria (CBN)
+- National Bureau of Statistics (NBS) [View Data](https://nigerianstat.gov.ng)
+- Central Bank of Nigeria (CBN) [Download Here](https://www.cbn.gov.ng)
   
 #### Tools Used
 - MS Excel
