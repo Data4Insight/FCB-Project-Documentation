@@ -15,6 +15,7 @@ This project analyzes the impacts of inflation and the exchange rate in Nigeria 
 - MS Excel
 - Microsoft Power BI
 - SQL
+---
 
 
 ```
